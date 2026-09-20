@@ -3,7 +3,7 @@ I am Cheng Chi Man. Year 2 student studying Statistics in University of Hong Kon
 
 ## Environment setup record
 
-- **AI coding tool:** WorkBuddy (handout allows CodeBuddy or TRAE; same clone → edit with AI → commit → push workflow)
+- **AI coding tool:** WorkBuddy — used for the clone → edit with AI → commit → push workflow below
 - **GitHub account:** [alva207528](https://github.com/alva207528) — linked to the tool
 - **Repository:** `ailt9019-sandbox`, public, branch `main`
 - **Checkpoint:** a commit made from the tool appears here on github.com
